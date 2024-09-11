@@ -1,4 +1,4 @@
-# DynamoDB Delete
+# DynamoDB Fast Scan & Update
 
 As you may already know, DynamoDB has incredible scale, and some interesting quirks. These quirks can make simple tasks a little more involved than it might have been on a relational database and most of these relate directly to the implementation of DynamoDB within AWS - specifically the partitioning of data across AWS' data centres.
 
